@@ -1,1 +1,1 @@
-# JAEGER PROTOCOL
+# イエーガープロトコル
